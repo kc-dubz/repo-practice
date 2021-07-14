@@ -1,27 +1,38 @@
-## First Name Last Name
+## Kylil Williams
 
-### Term Year 
+### 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+  |Class|Name|
+|:----------:|:--------------------------------:|
+|**Intro to Data Science**|_Data Science_|     
+|**MAC 1147**|_Precalculus Algebra/Trigonometry_|
 
-- Course 2
+# Introduction to Data Science
+I've learned how to:
 
-- Course 3
+- Format text and input hyperlinks and images
 
-- Course 4
+- Create vectors and use values with variables 
+
+- Pull and clone an existing repository, make changes, then push and commit those changes back to the repository
+
+[Link on Vectors]("https://www.datamentor.io/r-programming/vector/")
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Pets, which I myself, favor dogs and cats
 
-- Thing 2
+- Action, Adventure, Strategy Videogames along with Boardgames
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Using coding platforms to advance my skills: https://www.unlock.academy/, https://www.codecademy.com/ along with languages of HTML, CSS, and Python
+
+[Repo Changes](https://github.com/kc-dubz/practice-repo/blob/main/flpoly_student.md)
+
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/12
