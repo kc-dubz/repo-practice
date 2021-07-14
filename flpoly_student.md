@@ -18,7 +18,7 @@ I've learned how to:
 
 - Pull and clone an existing repository, make changes, then push and commit those changes back to the repository
 
-[Link on Vectors]("https://www.datamentor.io/r-programming/vector/")
+[Link on Vectors](https://www.datamentor.io/r-programming/vector/)
 
 **Hobbies:**
 
@@ -30,7 +30,7 @@ I am _passionate about_:
 
 - Using coding platforms to advance my skills: https://www.unlock.academy/, https://www.codecademy.com/ along with languages of HTML, CSS, and Python
 
-[Repo Changes](https://github.com/kc-dubz/practice-repo/blob/main/flpoly_student.md)
+[Repo Changes](https://github.com/kc-dubz/repo-practice/blob/main/flpoly_student.md)
 
 
 ***
