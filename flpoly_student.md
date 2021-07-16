@@ -1,8 +1,8 @@
-## Kylil Williams
+## Kylil Williams 
 
 ### 2021
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student  at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
   |Class|Name|
 |:----------:|:--------------------------------:|
@@ -32,7 +32,28 @@ I am _passionate about_:
 
 [Repo Changes](https://github.com/kc-dubz/repo-practice/blob/main/flpoly_student.md)
 
+```{r}
+my_name <- c("Kylil","Williams")
+name_length <- length(my_name)
+print(name_length)
+
+e <- 2.71828
+e^pi > pi^e
+
+add_tree <- 9
+mult <- (add_tree*3)
+print(mult)
+
+v10_49 <- (10:49)
+v10_49length <- length(v10_49)
+print(v10_49length)
+
+increment <- seq(-5, 10, by=0.5)
+print(increment)
+```
+
+
 
 ***
 
-> Last modified: 2021/07/12
+> Last modified: 2021/07/16
